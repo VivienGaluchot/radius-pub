@@ -1,3 +1,3 @@
 # radius-pub
 
-* Règles de confidentialité
+* Règles de confidentialité [confidentialité.md](confidentialité.md)
