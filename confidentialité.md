@@ -1,5 +1,17 @@
-# Règles de confidentialité de Radius
+:fr: 
 
-> Ceci s'applique uniquement à l'application officielle, téléchargée depuis le Play Store.
+# Règles de confidentialité
 
-Aucune donnée de localisation ou autre information vous concernant n'est sauvegardée ou transmise par l'application.
+> Ceci s'applique uniquement à l'application officielle, téléchargée depuis le [Play Store](https://play.google.com/store/apps/details?id=com.vgaluc.radius).
+
+Aucune donnée de localisation ou autre information n'est sauvegardée ou transmise par l'application Radius.
+
+-----
+
+:us: 
+
+# Confidentiality
+
+> Only apply on the official app, installed from the [Play Store](https://play.google.com/store/apps/details?id=com.vgaluc.radius).
+
+The Radius application does not collect or transmit any user data.
