@@ -1,4 +1,4 @@
-:fr: 
+FR 
 
 # Règles de confidentialité
 
@@ -8,7 +8,7 @@ Aucune donnée de localisation ou autre information n'est sauvegardée ou transm
 
 -----
 
-:us: 
+EN
 
 # Confidentiality
 
